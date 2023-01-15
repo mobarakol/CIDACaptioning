@@ -1,5 +1,5 @@
 # CIDA for surgical report generation
-This repository contains the reference code for the paper "Class-Incremental Domain Adaptation with Smoothing and Calibration for Surgical Report Generation"
+This repository contains the reference code for the paper "[Class-Incremental Domain Adaptation with Smoothing and Calibration for Surgical Report Generation](https://link.springer.com/chapter/10.1007/978-3-030-87202-1_26)"
 
 <p align="center">
   <img src="Figures/workflow.png" alt="workflow" width="600"/>
